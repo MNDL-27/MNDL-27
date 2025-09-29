@@ -1,5 +1,3 @@
-[![License](https://img.shields.io/github/license/MNDL-27/MNDL-27?style=flat-square)](LICENSE) [![Stars](https://img.shields.io/github/stars/MNDL-27/MNDL-27?style=flat-square)](https://github.com/MNDL-27/MNDL-27/stargazers)
-
 # MNDL-27
 
 Tech enthusiast and student at Chandigarh University with interests in server administration, software development, and gaming technology. Currently learning Python and expanding my programming skills.

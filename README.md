@@ -1,21 +1,16 @@
 # Protik Mondal
 
-I build things with code. Mostly AI tools, bots, and web apps. I like understanding systems deeply — often by breaking them first.
+[protik.eu.org](https://protik.eu.org) · working from home
 
-## What I work with
+I build tools that scratch my own itch — Docker dashboards, media apps, and performance utilities. Mostly TypeScript, Python, and Dart.
 
-Python, TypeScript, JavaScript, Dart. Frameworks like Next.js, React, Express, and Flutter. I deploy on Cloudflare, Azure, and Netlify, and I use Supabase for backends.
+## Selected work
 
-## Connect
+- **[docker-dashboard](https://github.com/MNDL-27/docker-dashboard)** — live stats, logs, and Portainer gateway in a clean SPA
+- **[Freak-Flix](https://github.com/Freaks-Empire/Freak-Flix)** — Netflix-style media player for Windows and Android with OneDrive streaming
+- **[galaxy-bypass-utility](https://github.com/MNDL-27/galaxy-bypass-utility)** — unlock max FPS and disable GOS on Samsung Galaxy devices
+- **[Shopora](https://github.com/MNDL-27/Shopora)** — full-stack e-commerce with React, Node.js, and MongoDB
 
-[Instagram](https://instagram.com/protikmndl) • [LinkedIn](https://linkedin.com/in/protik-mondal) • [Email](mailto:dev@protik.eu.org)
+## Elsewhere
 
-## Support
-
-If you want to support my work: [PayPal](https://paypal.me/ProtikMondal27)
-
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=MNDL-27&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=MNDL-27&theme=monokai&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNDL-27&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[Instagram](https://instagram.com/protikmndl) · [LinkedIn](https://linkedin.com/in/protik-mondal) · [Email](mailto:dev@protik.eu.org) · [ORCID](https://orcid.org/0009-0003-7288-4431)

@@ -6,9 +6,11 @@ I build tools that scratch my own itch — Docker dashboards, media apps, and pe
 
 ## Selected work
 
-- **[docker-dashboard](https://github.com/MNDL-27/docker-dashboard)** — live stats, logs, and Portainer gateway in a clean SPA
-- **[Freak-Flix](https://github.com/Freaks-Empire/Freak-Flix)** — Netflix-style media player for Windows and Android with OneDrive streaming
-- **[galaxy-bypass-utility](https://github.com/MNDL-27/galaxy-bypass-utility)** — unlock max FPS and disable GOS on Samsung Galaxy devices
+- **[DockerDash](https://dockerdash.app)** — multi-tenant Docker monitoring SaaS: agent-based host polling, org accounts, JWT auth, UddoktaPay billing, self-run security audit (source private)
+- **[Etilic](https://etilic.com)** — production business site, live in production (source private)
+- **[galaxy-bypass-utility](https://github.com/MNDL-27/galaxy-bypass-utility)** — unlock max FPS and disable GOS on Samsung Galaxy devices · 20★
+- **[hermes-brain](https://github.com/MNDL-27/hermes-brain)** — long-term memory for Hermes agents via structured Notion databases, with auto-capture and secret redaction
+- **[breaking-apps-hackathon](https://github.com/MNDL-27/breaking-apps-hackathon)** — Passmark AI regression test suite, built for the Breaking Apps Hackathon
 - **[Shopora](https://github.com/MNDL-27/Shopora)** — full-stack e-commerce with React, Node.js, and MongoDB
 
 ## Elsewhere
